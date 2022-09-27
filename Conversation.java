@@ -27,7 +27,7 @@ class Conversation {
     String Userinput= input.nextLine();
     Transcript.add(Userinput);
   
-    System.out.println(i);
+    // System.out.println(i);
     
    String []arrayofinput= Userinput.split(" ",15);
    
