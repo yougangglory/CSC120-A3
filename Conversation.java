@@ -17,7 +17,7 @@ class Conversation {
 
    System.out.println("Hi!What's on your mind?");
    Transcript.add("Hi!What's on your mind?");
-   String[]arrayofcannedresponses=new String[]{"Really? Mmm-hm.See ya!"};
+   String[]arrayofcannedresponses=new String[]{"Really? Oh! Mmm-hm.See ya!"};
     /* arrayorigin is the array of words to be identified and arrayreplacement is the one for words to replace */
    String[] arrayorigin= new String [] {"I'm","I","you","am","my","your","me"};
    String[] arrayreplacement= new String [] {"You're","you","I","are","your","my","you"};
